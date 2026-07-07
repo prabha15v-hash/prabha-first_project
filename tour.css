@@ -94,3 +94,9 @@ Use code with caution.         /* Sets an even space between the images */
     width:350px;
 
 }
+button{
+ background-color:black;
+ color:white;
+ padding:10px;
+ font-size:8px;
+}
